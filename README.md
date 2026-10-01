@@ -1,2 +1,2 @@
 # dsai-ap1-mec-store
-App de compra de roupas
+Aplicação de compra de roupas M&C Store
